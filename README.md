@@ -1,4 +1,6 @@
 # Hi there! I'm Gaizka 🧑‍💻🚀
+
+```javascript
     const Gaizkaja = {
       fullName: "Gaizka Jimenez Alvarez",
       profession: "Full Stack Dev 🧑‍💻", 
@@ -22,7 +24,7 @@
          Docker],
     };
     
-
+```
     
 ### Tech Stack
 
