@@ -9,7 +9,7 @@
       techStack: {
         code: JavaScript,
         tools: {
-          frontEnd: [Angular, Redux, CSS, Material-UI, TailwindCSS],
+          frontEnd: [React, Redux, CSS, Material-UI, TailwindCSS],
           backEnd: [PHP, Java],
           databases: {
             sql: MySQL,
