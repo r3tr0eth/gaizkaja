@@ -12,7 +12,7 @@
           frontEnd: [React, Bootstrap, CSS, TailwindCSS],
           backEnd: [PHP, Java, Powershell, Node.JS],
           databases: {
-            sql: MySQL, PostgreSQL
+            sql: MySQL, PostgreSQL,
             nosql: MongoDB
           },
           deployment: [Netifly, Github Pages],
